@@ -26,7 +26,7 @@ _This is an exercise in C# to practice MS testing and BDD._
 
 ## Known Bugs
 
-* _  _
+* _None_
 
 ## Support and contact details
 
@@ -36,6 +36,7 @@ _For feedback, please contact Catherine Bradley at catherinetybradley@gmail.com 
 
 * _C#_
 * _Mono_
+* _MS Test_
 
 ### Legal
 
